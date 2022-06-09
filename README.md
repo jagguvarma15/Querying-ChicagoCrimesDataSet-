@@ -52,6 +52,6 @@ CHICAGO_CRIME_DATA<br>
   
 Let us now load the ipython-sql extension and establish a connection with the database
   
-<q><h5>Note : This Repository contains iPython Notebook which is part of my DataBases_and_SQL_for_Data_Science(week-5) Coursera Course Assignment</h5></q>
+<q><h5>Note : This Repository contains iPython Notebook which is part of my DataBases_and_SQL_for_Data_Science(week-5) Coursera Course Assignment through IBM Skills Network.</h5></q>
 </body>
   </html>

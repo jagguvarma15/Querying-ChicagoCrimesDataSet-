@@ -46,9 +46,9 @@ NOTE: Ensure you have downloaded the datasets using the links above instead of d
 Store the datasets in database tables
 To analyze the data using SQL, it first needs to be loaded into SQLite DB. We will create three tables in as under:
 
-CENSUS_DATA
-CHICAGO_PUBLIC_SCHOOLS
-CHICAGO_CRIME_DATA
+CENSUS_DATA<br>
+CHICAGO_PUBLIC_SCHOOLS<br>
+CHICAGO_CRIME_DATA<br>
   
 Let us now load the ipython-sql extension and establish a connection with the database
 </body>

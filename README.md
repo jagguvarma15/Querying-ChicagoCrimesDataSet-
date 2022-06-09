@@ -11,8 +11,8 @@ Execute SQL queries to answer assignment questions
 Understand the datasets
 To complete the assignment problems in this notebook you will be using three datasets that are available on the city of Chicago's Data Portal:
 
-  <code>Socioeconomic Indicators in Chicago</code>
-  <code>Chicago Public Schools</code>
+  <code>Socioeconomic Indicators in Chicago</code><br>
+  <code>Chicago Public Schools</code><br>
   <code>Chicago Crime Data</code>
 
   <h3>1. Socioeconomic Indicators in Chicago</h3>
